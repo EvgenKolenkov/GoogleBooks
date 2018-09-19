@@ -1,0 +1,18 @@
+/* 
+  localizable.strings
+  BookTests
+
+  Created by Evgeniy Kolenkov on 28.03.18.
+  Copyright © 2018 Evgeniy Kolenkov. All rights reserved.
+*/
+"BooksViewController_tabBarItem_title" = "Books";
+"BasketViewController_tabBarItem_title" = "Basket";
+"AccountViewController_tabBarItem_title" = "Account";
+"logOutButton_titleLabel" = "Logout";
+"navigationItem_title" = "Book Info";
+"barButtonItem_title_delete" = "Delete";
+"barButtonItem_title_toBasket" = "To basket";
+"alert_title" = "Attention";
+"alert_addMessage" = "Book added to basket";
+"alert_deleteMessage" = "Book deleted from basket";
+

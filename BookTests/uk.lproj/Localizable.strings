@@ -1,0 +1,17 @@
+/* 
+  localizable.strings
+  BookTests
+
+  Created by Evgeniy Kolenkov on 28.03.18.
+  Copyright © 2018 Evgeniy Kolenkov. All rights reserved.
+*/
+"BooksViewController_tabBarItem_title" = "Книги";
+"BasketViewController_tabBarItem_title" = "Кошик";
+"AccountViewController_tabBarItem_title" = "Аккаунт";
+"logOutButton_titleLabel" = "Вихід";
+"navigationItem_title" = "Детальніше";
+"barButtonItem_title_delete" = "Видалити";
+"barButtonItem_title_toBasket" = "У кошик";
+"alert_title" = "Увага";
+"alert_addMessage" = "Книга додана у кошик";
+"alert_deleteMessage" = "Книга видалена з кошика";

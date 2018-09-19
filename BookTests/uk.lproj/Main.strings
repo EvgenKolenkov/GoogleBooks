@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Author Name"; ObjectID = "1YL-fo-4OA"; */
+"1YL-fo-4OA.text" = "Author Name";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "2BN-lD-ROy"; */
+"2BN-lD-ROy.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5uL-m2-pSb"; */
+"5uL-m2-pSb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Login with Facebook"; ObjectID = "669-ay-vXq"; */
+"669-ay-vXq.normalTitle" = "Вхід через Facebook";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6bI-qv-acC"; */
+"6bI-qv-acC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Login with Google+"; ObjectID = "9DA-Hh-KIu"; */
+"9DA-Hh-KIu.normalTitle" = "Вхід через Google+";
+
+/* Class = "UITabBarItem"; title = "Books"; ObjectID = "CIg-Fm-zS1"; */
+"CIg-Fm-zS1.title" = "Книги";
+
+/* Class = "UILabel"; text = "Google Books"; ObjectID = "ClV-X9-qXb"; */
+"ClV-X9-qXb.text" = "Google Books";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "KnD-o1-kGd"; */
+"KnD-o1-kGd.normalTitle" = "Вихід";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "SXV-P1-5Z4"; */
+"SXV-P1-5Z4.title" = "Аккаунт";
+
+/* Class = "UINavigationItem"; title = "Book Info"; ObjectID = "X39-Mg-nVo"; */
+"X39-Mg-nVo.title" = "Детальніше";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fac-wo-m2z"; */
+"fac-wo-m2z.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Basket"; ObjectID = "kYw-7p-nFC"; */
+"kYw-7p-nFC.title" = "Кошик";
+
+/* Class = "UILabel"; text = "Book Name"; ObjectID = "mC3-Bh-8VR"; */
+"mC3-Bh-8VR.text" = "Book Name";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "t5F-Rd-UAM"; */
+"t5F-Rd-UAM.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v70-42-5yR"; */
+"v70-42-5yR.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zX1-Ta-fHE"; */
+"zX1-Ta-fHE.text" = "Label";
