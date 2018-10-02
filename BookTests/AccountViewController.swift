@@ -9,6 +9,7 @@
 import Foundation
 import UIKit
 import GoogleSignIn
+import FBSDKLoginKit
 
 class AccountViewController: UIViewController {
     
@@ -39,6 +40,8 @@ class AccountViewController: UIViewController {
     
     @IBAction func logOutButtonAction(_ sender: UIButton) {
         GIDSignIn.sharedInstance().signOut()
+        let loginManager = FBSDKLoginManager()
+        loginManager.logOut()
         self.navigationController?.popToRootViewController(animated: true)
     }
     

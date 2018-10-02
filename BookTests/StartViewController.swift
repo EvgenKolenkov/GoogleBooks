@@ -31,7 +31,7 @@ class StartViewController: UIViewController, GIDSignInUIDelegate, GIDSignInDeleg
             let email = user.profile.email
             let imageURL = user.profile.imageURL(withDimension: 200)
             let currentUser = User(name: fullName!, eMail: email!, imageURL: imageURL!)
-            entering(user: currentUser)
+            entering(with: currentUser)
         }
     }
     
@@ -66,12 +66,12 @@ class StartViewController: UIViewController, GIDSignInUIDelegate, GIDSignInDeleg
                     else {return}
                 
                 let currentUser = User(name: name, eMail: email, imageURL: imageUrl)
-                self?.entering(user: currentUser)
+                self?.entering(with: currentUser)
             })
         }
     }
     
-    func entering(user: User) {
+    func entering(with user: User) {
         let storyBoard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
         let tabBarViewController = storyBoard.instantiateViewController(withIdentifier: "TabBarViewController") as! TabBarViewController
         tabBarViewController.currentUser = user
